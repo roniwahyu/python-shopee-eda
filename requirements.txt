@@ -11,7 +11,10 @@ sympy>=1.10.1
 # Machine learning ----------------------------
 scikit-learn
 nltk
-
+matplotlib
+pysastrawi
+textblob
+vader
+tqdm_notebook
 #os----
-sys
 seaborn
