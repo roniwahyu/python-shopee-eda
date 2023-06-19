@@ -25,5 +25,3 @@ vscode:
     extensions:
         - ms-toolsai.jupyter
         - vscode.python
-        - eamodio.gitlens
-        - ms-python.vscode-pylance
