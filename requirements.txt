@@ -15,6 +15,6 @@ matplotlib
 pysastrawi
 textblob
 vader
-tqdm_notebook
+tqdm
 #os----
 seaborn
