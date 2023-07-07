@@ -18,3 +18,7 @@ vader
 tqdm
 #os----
 seaborn
+
+#scraping
+selenium
+tweepy
