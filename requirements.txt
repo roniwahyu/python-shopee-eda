@@ -22,3 +22,4 @@ seaborn
 #scraping
 selenium
 tweepy
+google_play_scraper
